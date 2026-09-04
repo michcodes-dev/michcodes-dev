@@ -32,3 +32,28 @@ I enjoy creating responsive websites, interactive user interfaces, and visually 
 - 🎨 Exploring UI/UX and modern web design
 - 💡 Building projects to strengthen my development skills
 - 🤝 Open to learning, collaborating, and building cool things
+
+## 🛠️ Skills & Tools
+
+### 💻 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+</p>
+
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" />
+</p>
+
+### ⚙️ Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+</p>
