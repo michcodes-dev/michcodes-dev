@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Michael 👋
 
-<!--
-**michcodes-dev/michcodes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Web Developer & Graphic Designer
 
-Here are some ideas to get you started:
+I'm Michael, a Frontend Web Developer and Graphic Designer passionate about building clean, responsive, and user-friendly digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into beautiful websites and designs while continuously learning and improving my skills.
+
+---
+
+### 🚀 What I Do
+
+- 💻 Build responsive websites with HTML, CSS & JavaScript
+- 🎨 Create graphics and visual designs
+- ⚡ Build interactive web experiences
+- 📚 Continuously learning and improving my development skills
+- 🤝 Open to collaborating on interesting projects
