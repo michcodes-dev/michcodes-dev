@@ -18,3 +18,17 @@ I enjoy turning ideas into beautiful websites and designs while continuously lea
 - ⚡ Build interactive web experiences
 - 📚 Continuously learning and improving my development skills
 - 🤝 Open to collaborating on interesting projects
+
+## 🧑🏽‍💻 About Me
+
+I'm **Michael**, a Frontend Web Developer & Graphic Designer from Nigeria 🇳🇬.
+
+I enjoy creating responsive websites, interactive user interfaces, and visually appealing designs. I'm currently focused on improving my JavaScript skills and turning ideas into real-world projects.
+
+### 🎯 Currently
+
+- 🔭 Working on frontend web projects
+- 🌱 Learning and improving my JavaScript skills
+- 🎨 Exploring UI/UX and modern web design
+- 💡 Building projects to strengthen my development skills
+- 🤝 Open to learning, collaborating, and building cool things
